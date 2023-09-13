@@ -1,7 +1,7 @@
 ### Hi there! I'm Thiago Barboza, a software engineer and test developer.
 
-  - 🔭 I’m currently working on front-end and back-end testing.
-  - 🌱 I’m currently learning Cypress for end-to-end testing and JMeter for load testing.
+  - 🔭 I’m currently working on front-end and back-end coding and automating tests.
+  - 🌱 I’m currently learning angular framework.
   - 📫 How to reach me: all my social midia i'm thbrbz, including my gmail ou hotmail.
   - 😄 Pronouns: He/Him.
 
