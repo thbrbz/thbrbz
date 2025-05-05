@@ -1,9 +1,7 @@
 <h1>Hi There! 👋</h1>
 
-<div style="background-color: var(--bgColor-muted, var(--color-canvas-subtle)); color: var(--fgColor-default, var(--color-fg-default)); overflow: auto; border-radius: 6px; padding: 1rem; font-size: 85%; line-height: 1.45;">
   I'm Thiago Barboza, a software engineer and test developer.<br>
   (Java | Python | JavaScript | TypeScript | React | Angular | Cypress | JMeter | SQL | Docker | Linux)
-</div>
 
 <br>
 
@@ -11,8 +9,6 @@
   - 👩‍💻 I’m currently working on Front-End and Back-End coding and automating tests.
   - 🌐 I’m currently learning AI technologies.
   - 📫 How to reach me: all my social midia i'm thbrbz, including my gmail or hotmail.
-
-<br>
 
 <div align="left">
   <a href="https://github.com/thbrbz">
