@@ -1,34 +1,25 @@
-### Hi there! I'm Thiago Barboza, a software engineer and test developer.
+<h1>Hi There! 👋</h1>
 
-  - 🔭 I’m currently working on front-end and back-end coding and automating tests.
-  - 🌱 I’m currently learning angular framework.
-  - 📫 How to reach me: all my social midia i'm thbrbz, including my gmail ou hotmail.
-  - 😄 Pronouns: He/Him.
+    I'm Thiago Barboza, a software engineer and test developer. 
+    (Java | Python | JavaScript | TypeScript | React | Angular | Cypress | JMeter | SQL | Docker | Linux)
 
-##
+  - 🎓 Technologist's degree in systems analysis and development
+  - 👩‍💻 I’m currently working on Front-End and Back-End coding and automating tests.
+  - 🌐 I’m currently learning AI technologies.
+  - 📫 How to reach me: all my social midia i'm thbrbz, including my gmail or hotmail.
 
-  <div align="center">
-    <a href="https://github.com/thbrbz">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thbrbz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbrbz&layout=compact&langs_count=16&theme=tokyonight"/>
-  </div>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="thbrbz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="thbrbz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="thbrbz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="thbrbz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="thbrbz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="thbrbz-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="center" alt="thbrbz-Oracle" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  </div>
+<br>
 
- ##
-
-  <div> 
-    <a href="https://instagram.com/thbrbz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitter.com/in/thbrbz" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-    <a href="https://www.twitch.tv/thbrbz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/thbrbz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:thbrbz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/thbrbz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="left">
+  <a href="https://github.com/thbrbz">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thbrbz&show_icons=true&theme=transparent"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbrbz&layout=compact"/>
+  </a>
 </div>
+
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thbrbz)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thbrbz@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/thbrbz)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thbrbz)
