@@ -1,7 +1,11 @@
 <h1>Hi There! 👋</h1>
 
-    I'm Thiago Barboza, a software engineer and test developer. 
-    (Java | Python | JavaScript | TypeScript | React | Angular | Cypress | JMeter | SQL | Docker | Linux)
+<div style="background-color: var(--bgColor-muted, var(--color-canvas-subtle)); color: var(--fgColor-default, var(--color-fg-default)); overflow: auto; border-radius: 6px; padding: 1rem; font-size: 85%; line-height: 1.45;">
+  I'm Thiago Barboza, a software engineer and test developer.<br>
+  (Java | Python | JavaScript | TypeScript | React | Angular | Cypress | JMeter | SQL | Docker | Linux)
+</div>
+
+<br>
 
   - 🎓 Technologist's degree in systems analysis and development
   - 👩‍💻 I’m currently working on Front-End and Back-End coding and automating tests.
@@ -12,8 +16,8 @@
 
 <div align="left">
   <a href="https://github.com/thbrbz">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thbrbz&show_icons=true&theme=transparent"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbrbz&layout=compact"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thbrbz&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thbrbz&layout=compact&theme=transparent&hide_border=true"/>
   </a>
 </div>
 
