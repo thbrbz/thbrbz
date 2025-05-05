@@ -3,8 +3,6 @@
   I'm Thiago Barboza, a software engineer and test developer.<br>
   (Java | Python | JavaScript | TypeScript | React | Angular | Cypress | JMeter | SQL | Docker | Linux)
 
-<br>
-
   - 🎓 Technologist's degree in systems analysis and development
   - 👩‍💻 I’m currently working on Front-End and Back-End coding and automating tests.
   - 🌐 I’m currently learning AI technologies.
