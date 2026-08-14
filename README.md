@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago Barboza</h1>
-<h3 align="center">A software engineer from Brasil.</h3>
+<h3 align="center">A software engineer from Brazil.</h3>
 <br>
 
   - 🎓 Technologist's degree in systems analysis and development
